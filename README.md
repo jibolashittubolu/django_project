@@ -1,1 +1,1 @@
-Django Framewor.
+Django Framework
